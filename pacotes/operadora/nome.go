@@ -3,7 +3,7 @@ package operadora
 import (
 	"strconv"
 
-	"github.com/gabrielpupo/cursodego/variaveis/pacotes/prefixo"
+	"github.com/gabrielpupo/cursodego/pacotes/prefixo"
 )
 
 //NomeOperadora representa o nome da operadora que se estar a usar
